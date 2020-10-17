@@ -1,0 +1,3 @@
+﻿select first_road_class,accident_severity,count(accident_index) as countAccidents_by_road_class_and_Accidentseverity
+from db2_accident_information
+group by first_road_class,accident_severity
