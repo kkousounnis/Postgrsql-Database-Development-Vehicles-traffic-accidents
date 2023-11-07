@@ -9,6 +9,7 @@ Every time a query is executed you will show every second time that the query is
 
 Above are execution times of queries in PostgreSQL
 
+
 ### 2)Query implementation in Spark (RDD)
 ![image](https://user-images.githubusercontent.com/39504405/96642954-8d4daa00-132f-11eb-931e-110ca411d0d0.png)
 
